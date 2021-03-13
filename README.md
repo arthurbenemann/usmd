@@ -5,7 +5,7 @@
 ![usmdbot](https://user-images.githubusercontent.com/3289118/111039543-80674b00-83e3-11eb-815c-a9f3324ac6dd.png)
 
 ## BOM
-|Qty.|Recommended Quantity|Part Number     |Manufacturer Part Number|Description                    |Reference                      |Unit Price|Extended Price|
+|Qty.|Rec. Qty.|DK Part Number     |Manufacturer Part Number|Description                    |Reference                      |Unit Price|Extended Price|
 |----|--------|---------------------------|------------------------|-------------------------------|-------------------------------|----------|--------------|
 |10  |15      |587-4850-1-ND              |JMK021BJ103KK5W         |CAP CER 10000PF 6.3V X5R 008004|C1 - C10                       |0.53300   |$8.00         |
 |1   |2       |754-2028-1-ND              |APG0603SEC-E-TT         |LED RED CLEAR 2SMD             |D1                             |0.43000   |$0.86         |
