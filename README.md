@@ -31,5 +31,6 @@ Size of an 08004 against a human hair
 
 If all compoents are soldered properly LED should blink at ~1Hz:
 ![](/photos/usmd_rate.jpg)
+![](/photos/sim.png)
 ![](/photos/usd_blinky.gif)
 
