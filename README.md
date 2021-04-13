@@ -16,3 +16,20 @@
 |1   |1       |P031-ND                    |CR-1025/BN              |BATTERY LITHIUM 3V COIN 10MM   |N/A                            |1.03000   |$1.03         |
 |1   |3       |[6NPtd21R](https://oshpark.com/shared_projects/6NPtd21R)|uSMD-Rev1-PCB|uSMD OSHPARK PCB|N/A                         |0.50000   |$1.50         |
 |    |        |                           |                        |                               |                               |**Total** |**$15.64**    |
+
+
+## Photos
+uSMD and [misery challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/AttinyChallengeMisery) stacked up.
+![](/photos/usmd_and_misery.jpg)
+
+USMD under microscope
+![](/photos/uscope_dry.jpg)
+![](/photos/uscope_ipa.jpg)
+
+Size of an 08004 against a human hair
+![](/photos/08004_and_hair.jpg)
+
+If all compoents are soldered properly LED should blink at ~1Hz:
+![](/photos/usmd_rate.jpg)
+![](/photos/usd_blinky.gif)
+
