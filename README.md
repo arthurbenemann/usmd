@@ -20,6 +20,7 @@
 
 ## Photos
 uSMD and [misery challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/AttinyChallengeMisery) stacked up.
+![](/photos/usmd.jpg)
 ![](/photos/usmd_and_misery.jpg)
 
 USMD under microscope
