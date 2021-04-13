@@ -20,6 +20,7 @@
 
 ## Photos
 uSMD and [misery challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/AttinyChallengeMisery) stacked up.
+![](/photos/usmd.jpg)
 ![](/photos/usmd_and_misery.jpg)
 
 USMD under microscope
@@ -31,5 +32,6 @@ Size of an 08004 against a human hair
 
 If all compoents are soldered properly LED should blink at ~1Hz:
 ![](/photos/usmd_rate.jpg)
+![](/photos/sim.png)
 ![](/photos/usd_blinky.gif)
 
