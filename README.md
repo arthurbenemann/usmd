@@ -36,3 +36,6 @@ If all compoents are soldered properly LED should blink at ~1Hz:
 ![](/photos/sim.png)
 ![](/photos/usd_blinky.gif)
 
+## External
+Marco Reps assembly on video, better than the original: https://www.youtube.com/watch?v=2vpTYaDGmCs&t=1451s
+
